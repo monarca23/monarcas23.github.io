@@ -1,0 +1,569 @@
+.main{
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("https://viajareapanama.com/wp-content/uploads/2020/06/veraguas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.logo{
+ height: 50%;
+ width: 5%;
+ margin-left: 0.5cm;
+ margin-top: 0.7cm;
+ border-radius: 50%;
+ 
+}
+
+.menu{
+    background-color: rgb(202, 206, 203); 
+    opacity: .8;
+   margin-left: -1em;
+   margin-top: -2em;
+   margin-bottom:-1em ;
+   margin-right:-10px ;
+   height: 105px;
+  
+
+
+}
+
+a:link {
+    color:white;
+    
+}
+
+a:visited{
+color: white;
+}
+
+a:hover{
+    color: #379b8d;
+}
+
+.menu-container{
+margin-top: 1em;
+}
+
+
+h1 {
+    font-family: "Vidaloka";
+    font-size: 60px;
+    text-align: "center";
+}
+
+
+li {
+    float: left;
+}
+
+ul{ 
+    display: flex ;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style: none;
+    margin: 0 0 1rem;
+    align-items: start;
+    margin-top: -3rem;
+    
+}
+
+a.homeActivo{
+color: #e77d1e;
+}
+
+.frase{
+    color: white;
+    height: 30rem;
+    width: 46rem;
+    margin-top: 4rem;
+   font-size: 540%;
+   line-height: 3cm;
+
+}
+
+.dropdown{
+ align-items: inline-block;
+ position: relative;
+}
+
+.rectangulo{
+    width: 250px;
+    height: 100px;
+    background-color: #305316;
+}
+
+#promo1{
+width: 5%;
+height: 5%;
+}
+   
+
+.promo1{
+    width: 5%;
+    height: 5%;
+    margin-left: 75rem;
+    margin-bottom: 1rem;
+}
+
+/* de aquí hacía abajo es sobre ABOUT US*/
+
+
+.tortuga{
+    display: inline-block;
+    position: relative;
+    width: 101.6%;
+    margin-top: 16px;
+    margin-left: -11px;
+   filter: brightness(.7);
+}
+
+.Eco{
+ line-height: .5;
+ letter-spacing: 0.7mm;
+ color: #ffffff;
+ text-indent: 0.5cm;
+
+ text-align: left;
+ font-style: italic;
+ font-size: 1cm ;
+ position: absolute;
+ margin-top: -13%;
+ 
+ 
+ color: #ffffff;
+ 
+}
+.Travel{
+    line-height: .5;
+    letter-spacing: 0.7mm;
+    color: #ffffff;
+    text-indent: 0.5cm;
+    
+    text-align: left;
+ font-style: italic;
+ font-size: .7cm ;
+ position: absolute;
+ margin-top: -10%;
+
+   }
+
+.ouragency{
+    text-align: center;
+}
+
+.uno{
+ text-align: center;
+ font-style: italic;
+ font-size: 1cm ;
+}
+
+.dos{
+    text-align: center;
+    font-size: .7cm;
+}
+
+.Treasure{
+    font-size: 1.3cm;
+    text-align: center;
+    font-style: italic;
+}
+
+.iconos{
+ 
+    margin-left: 200px;
+}
+
+.camping{
+    margin-left: 25px;
+}
+
+
+/* De aquí hacia abajo es SERVICES */
+
+
+
+
+
+.arbolitos{
+    display: inline-block;
+    position: relative;
+    width: 101.5%;
+    margin-top: 16px;
+    margin-left: -10px;
+   filter: brightness(.7);
+}
+
+.great{
+text-align: center;
+ font-style: italic;
+ font-size: 1cm ;
+ position: absolute;
+ margin-top: -20%;
+ margin-left: 37%;
+ 
+ color: #ffffff;
+}
+.secont{
+    text-align: center;
+     font-style: italic;
+     font-size: 0.7cm ;
+     position: absolute;
+     margin-top: -17%;
+     margin-left: 32%;
+     color: #ffffff;
+    }
+
+    #bus{
+        width: 4%;
+        margin-left: 80%;
+        margin-top: -1.9cm;
+        position: absolute;
+        
+    }
+    #busitolinea{
+        font-size: 0.7cm;
+        text-align: center;
+        margin-left: -40px;
+    }
+
+    p.verde{
+        text-align: center;
+        color: #305316;
+        font-size: .9cm;
+    }
+
+    p.normal{
+        text-align: center;
+        font-size: 0.8cm;
+
+    }
+    .LaYeguada{
+     background-color: #ffffff;
+     width: 500px ;
+     height: 340px;
+     float: right;
+     margin-right: 150px;
+     margin-top: 50px;
+    }
+
+    .imgyeguada{
+        width: 40%;
+        float: left;
+        margin-left: 50px;
+        margin-top: 50px;
+    }
+
+    .Pacific{
+        background-color: #ffffff;
+        width: 500px ;
+        height: 340px;
+        float: left;
+        margin-left: 50px;
+        margin-top: 150px;
+       }
+   
+       .imgPacific{
+           width: 40%;
+           float: right;
+           margin-right: 150px;
+           margin-top: 150px;
+       }
+
+       .Silampa{
+        background-color: #ffffff;
+        width: 500px ;
+        height: 440px;
+        float: right;
+        margin-right: 150px;
+        margin-top: 250px;
+       }
+   
+       .imgsilampa{
+           width: 30%;
+           float: left;
+           margin-left: 100px;
+           margin-top: 200px;
+       }
+
+       /* De aquí hacia abajo es RESERVE */
+
+       .playa{
+        display: inline-block;
+        position: relative;
+        width: 101.5%;
+        margin-top: 16px;
+        margin-left: -10px;
+       filter: brightness(.7);
+    }
+    
+    .center{
+    text-align: center;
+     font-style: italic;
+     font-size: 1.3cm ;
+     position: absolute;
+     margin-top: -18%;
+     margin-left: 43%;
+     
+     color: #ffffff;
+    }
+
+.personal{
+    color: #305316;
+}
+
+.red{
+    color: red;
+}
+
+    .center1{
+        text-align: center;
+         font-style: italic;
+         font-size: 1cm ;
+         position: absolute;
+         margin-top: -14%;
+         margin-left: 38%;
+         color: #ffffff;
+        }
+
+    .dear{
+      font-size: .7cm;
+      text-align: center;
+
+    }
+
+    .inputBox{
+        
+        left: 5px;
+        
+        padding: 27px 0;
+        font-size: 20px;
+        
+        transition: 0.5s;
+        color: rgb(0, 0, 0);
+      }
+    
+    .contactForm {
+        width: 50%;
+        padding: 40px;
+       
+       
+        }
+       
+        .inputBox input,
+        .inputBox textarea
+        {
+          width: 90%;
+          padding: 7px 0;
+          font-size: 17px;
+          
+    
+          border: 1cm;
+          background-color: #f0edec;
+         
+        }
+         
+
+       
+      
+        .contactForm1 .inputBox
+        {
+          position: relative;
+          width: 50%;
+          margin-top: 10px;
+          margin-left: 7cm;
+          
+          
+        }
+      
+        
+.contactForm1 .inputBox input [type="submit"]
+{
+width: 50px;
+color: rgb(255, 255, 255);
+cursor: pointer;
+padding: 10px;
+font-size: 18px;
+}
+        .inputBox span{
+            position: left;
+        }
+
+       .inputBox span{
+        text-align: center;
+        font-size: 20px;
+     
+      }
+      
+
+     
+      
+      .contactForm .inputBox input [type="submit"]
+      {
+      width: 100px;
+      color: #fff;
+      cursor: pointer;
+      padding: 10px;
+      font-size: 18px;
+      }
+
+      .ps1{
+    margin-top: -2cm;
+    margin-left: -40px;
+    width: 80%;
+      }
+
+      .ps2{
+        margin-top: -107px;
+        margin-left: 16cm;
+        width: 80%;
+    }
+    .ps3{
+        margin-top: -1cm;
+    margin-left: -40px;
+    width: 80%;
+    }
+    .ps4{
+        margin-top: -107px;
+        margin-left: 16cm;
+        width: 80%;
+    }
+
+    .ps5{
+        margin-top: -30px;
+        margin-left: 16.7cm;
+        width: 40%;
+          }
+    
+          .ps6{
+            margin-top: -60px;
+            margin-left: 16.7cm;
+            width: 40%;
+        }
+   
+        .casi{
+            margin-top: -170px;
+            margin-left: 23.7cm;
+
+        }
+
+        .day{
+            margin-top: -41px;
+            margin-left: 1.6cm;
+        }
+    .guide{
+        float: right;
+        margin-top: -120px;
+        margin-right: 300px;
+    }
+
+       /* De aquí hacia abajo es CONTACT*/ 
+       .Contact{
+        background-image:   url("hiking.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+     }
+        .menu1{
+            background-color: rgb(202, 206, 203); 
+            opacity: .8;
+           margin-left: -1em;
+           margin-top: -2em;
+           margin-bottom:-100px ;
+           margin-right:-10px ;
+           height: 104px;
+           
+    }
+
+    .we{
+        margin-top: 3cm;
+        font-size: 1cm;
+        color: #ffffff;
+        
+        text-align: center;
+    }
+
+    .Please{
+        margin-top: -1cm;
+        font-size: .7cm;
+        color: #ffffff;
+        
+        text-align: center;
+    }
+
+    .ps7{
+        margin-top: 2cm;
+        margin-left: 3cm;
+        width: 40%;
+          }
+    
+          .ps8{
+            margin-top: -110px;
+            margin-left: 18.7cm;
+            width: 40%;
+     }
+
+    .na{
+        font-size: 20px;
+        position: absolute;
+        margin-top: 6px;
+        color: white;
+      
+    }
+
+    .Email{
+        color: white;
+    }
+
+    
+  
+  
+          
+.write{
+    color: white;
+    position: absolute;
+    text-align: center;
+    margin-left: 15cm;
+    font-size: 27px;
+    letter-spacing: .1cm;
+ 
+}
+
+
+      .enviar{
+        background-color: #6daa3f;
+        width: 5cm;
+        height: 2cm;
+        border-radius: 15px;
+        margin-top: -3px;
+        margin-left: -9px;
+        
+      }
+
+      .enviartext{
+        text-align: center;
+        position: absolute;
+        margin-top: 20px;
+        margin-left: 1.6cm;
+        font-size: 30px;
+        
+      }
+
+      .xd{
+        width: 4cm;
+        height: 2cm;
+        border-radius: 15px;
+        Margin-left: 566px;
+        margin-top: 1cm;
+      }
+     /*Esto es el tamaño de la caja de mensaje (consultatio)*/
+        .escribe textarea
+        {
+          width: 90%;
+          padding: 50px 0;
+          font-size: 17px;
+          margin-top: 1cm;
+          margin-left: 1cm;
+    
+          border: 1cm;
+          background-color: #f0edec;
+         
+        }
